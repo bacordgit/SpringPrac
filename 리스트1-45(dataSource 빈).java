@@ -1,0 +1,1 @@
+<Bean id="dataSource" class="org.springframework.jdbc.datasource.SimpleDriverDataSource">
